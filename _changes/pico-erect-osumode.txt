@@ -1,0 +1,7 @@
+mods/data/pico-erect/events.json
+mods/data/pico-erect/pico-erect-erect.json
+mods/data/pico-erect/pico-erect-nightmare.json
+mods/songs/pico-erect/Voices.ogg
+mods/songs/pico-erect/voices.ogg
+mods/songs/pico-erect/Inst.ogg
+mods/songs/pico-erect/inst.ogg

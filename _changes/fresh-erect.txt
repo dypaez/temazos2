@@ -1,0 +1,7 @@
+mods/data/fresh-erect/events.json
+mods/data/fresh-erect/fresh-erect-erect.json
+mods/data/fresh-erect/fresh-erect-nightmare.json
+mods/songs/fresh-erect/Voices.ogg
+mods/songs/fresh-erect/voices.ogg
+mods/songs/fresh-erect/Inst.ogg
+mods/songs/fresh-erect/inst.ogg

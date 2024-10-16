@@ -1,0 +1,6 @@
+mods/data/boss/boss-easy.json
+mods/data/boss/boss-hard.json
+mods/data/boss/boss.json
+mods/data/boss/script.lua
+mods/songs/boss/Inst.ogg
+mods/songs/boss/inst.ogg

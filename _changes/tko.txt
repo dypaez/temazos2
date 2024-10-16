@@ -1,0 +1,6 @@
+mods/data/tko/events.json
+mods/data/tko/tko-voiid.json
+mods/songs/tko/Voices.ogg
+mods/songs/tko/voices.ogg
+mods/songs/tko/Inst.ogg
+mods/songs/tko/inst.ogg

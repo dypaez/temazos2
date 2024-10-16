@@ -1,0 +1,9 @@
+mods/data/the-end/customcharacter.lua
+mods/data/the-end/script.lua
+mods/data/the-end/the-end-easy.json
+mods/data/the-end/the-end-hard.json
+mods/data/the-end/the-end.json
+mods/songs/the-end/Voices.ogg
+mods/songs/the-end/voices.ogg
+mods/songs/the-end/Inst.ogg
+mods/songs/the-end/inst.ogg

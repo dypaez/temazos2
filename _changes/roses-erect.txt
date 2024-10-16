@@ -1,0 +1,7 @@
+mods/data/roses-erect/events.json
+mods/data/roses-erect/roses-erect-erect.json
+mods/data/roses-erect/roses-erect-nightmare.json
+mods/songs/roses-erect/Voices.ogg
+mods/songs/roses-erect/voices.ogg
+mods/songs/roses-erect/Inst.ogg
+mods/songs/roses-erect/inst.ogg

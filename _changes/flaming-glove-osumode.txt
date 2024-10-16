@@ -1,0 +1,5 @@
+mods/data/flaming-glove/flaming-glove-voiid.json
+mods/songs/flaming-glove/Voices.ogg
+mods/songs/flaming-glove/voices.ogg
+mods/songs/flaming-glove/Inst.ogg
+mods/songs/flaming-glove/inst.ogg

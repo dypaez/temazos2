@@ -1,0 +1,7 @@
+mods/data/blammed-erect/blammed-erect-erect.json
+mods/data/blammed-erect/blammed-erect-nightmare.json
+mods/data/blammed-erect/events.json
+mods/songs/blammed-erect/Voices.ogg
+mods/songs/blammed-erect/voices.ogg
+mods/songs/blammed-erect/Inst.ogg
+mods/songs/blammed-erect/inst.ogg

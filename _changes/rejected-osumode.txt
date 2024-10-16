@@ -1,0 +1,6 @@
+mods/data/rejected/events.json
+mods/data/rejected/rejected-voiid.json
+mods/songs/rejected/Voices.ogg
+mods/songs/rejected/voices.ogg
+mods/songs/rejected/Inst.ogg
+mods/songs/rejected/inst.ogg

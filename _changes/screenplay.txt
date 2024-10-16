@@ -1,0 +1,7 @@
+mods/data/screenplay/screenplay-expert.json
+mods/data/screenplay/screenplay-hard.json
+mods/data/screenplay/screenplay-insane.json
+mods/songs/screenplay/Voices.ogg
+mods/songs/screenplay/voices.ogg
+mods/songs/screenplay/Inst.ogg
+mods/songs/screenplay/inst.ogg

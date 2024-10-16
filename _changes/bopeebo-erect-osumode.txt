@@ -1,0 +1,7 @@
+mods/data/bopeebo-erect/bopeebo-erect-erect.json
+mods/data/bopeebo-erect/bopeebo-erect-nightmare.json
+mods/data/bopeebo-erect/events.json
+mods/songs/bopeebo-erect/Voices.ogg
+mods/songs/bopeebo-erect/voices.ogg
+mods/songs/bopeebo-erect/Inst.ogg
+mods/songs/bopeebo-erect/inst.ogg

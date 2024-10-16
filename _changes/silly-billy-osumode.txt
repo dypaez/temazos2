@@ -1,0 +1,6 @@
+mods/data/silly-billy/silly-billy.json
+mods/data/silly-billy/sumExtraShit.lua
+mods/songs/silly-billy/Voices.ogg
+mods/songs/silly-billy/voices.ogg
+mods/songs/silly-billy/Inst.ogg
+mods/songs/silly-billy/inst.ogg

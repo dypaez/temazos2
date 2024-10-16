@@ -1,0 +1,6 @@
+mods/data/sport-swinging/events.json
+mods/data/sport-swinging/sport-swinging-voiid.json
+mods/songs/sport-swinging/Voices.ogg
+mods/songs/sport-swinging/voices.ogg
+mods/songs/sport-swinging/Inst.ogg
+mods/songs/sport-swinging/inst.ogg

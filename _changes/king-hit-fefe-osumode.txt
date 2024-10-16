@@ -1,0 +1,6 @@
+mods/data/king-hit-fefe/events.json
+mods/data/king-hit-fefe/king-hit-fefe-hard.json
+mods/songs/king-hit-fefe/Voices.ogg
+mods/songs/king-hit-fefe/voices.ogg
+mods/songs/king-hit-fefe/Inst.ogg
+mods/songs/king-hit-fefe/inst.ogg

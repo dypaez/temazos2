@@ -1,0 +1,7 @@
+mods/data/dadbattle-erect/dadbattle-erect-erect.json
+mods/data/dadbattle-erect/dadbattle-erect-nightmare.json
+mods/data/dadbattle-erect/events.json
+mods/songs/dadbattle-erect/Voices.ogg
+mods/songs/dadbattle-erect/voices.ogg
+mods/songs/dadbattle-erect/Inst.ogg
+mods/songs/dadbattle-erect/inst.ogg

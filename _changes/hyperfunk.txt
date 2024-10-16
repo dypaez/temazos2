@@ -1,0 +1,2 @@
+mods/data/hyperfunk/events.json
+mods/data/hyperfunk/hyperfunk.json

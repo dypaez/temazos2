@@ -1,0 +1,8 @@
+mods/data/king-hit-voiid/king-hit-voiid-easy.json
+mods/data/king-hit-voiid/king-hit-voiid-hard.json
+mods/data/king-hit-voiid/king-hit-voiid-voiid.json
+mods/data/king-hit-voiid/king-hit-voiid.json
+mods/songs/king-hit-voiid/Voices.ogg
+mods/songs/king-hit-voiid/voices.ogg
+mods/songs/king-hit-voiid/Inst.ogg
+mods/songs/king-hit-voiid/inst.ogg

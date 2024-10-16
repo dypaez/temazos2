@@ -1,0 +1,7 @@
+mods/data/spookeez-erect/events.json
+mods/data/spookeez-erect/spookeez-erect-erect.json
+mods/data/spookeez-erect/spookeez-erect-nightmare.json
+mods/songs/spookeez-erect/Voices.ogg
+mods/songs/spookeez-erect/voices.ogg
+mods/songs/spookeez-erect/Inst.ogg
+mods/songs/spookeez-erect/inst.ogg

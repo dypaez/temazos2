@@ -1,0 +1,6 @@
+mods/data/foolhardy/foolhardy.json
+mods/data/foolhardy/script.lua
+mods/songs/foolhardy/Voices.ogg
+mods/songs/foolhardy/voices.ogg
+mods/songs/foolhardy/Inst.ogg
+mods/songs/foolhardy/inst.ogg

@@ -1,0 +1,7 @@
+mods/data/south-erect/events.json
+mods/data/south-erect/south-erect-erect.json
+mods/data/south-erect/south-erect-nightmare.json
+mods/songs/south-erect/Voices.ogg
+mods/songs/south-erect/voices.ogg
+mods/songs/south-erect/Inst.ogg
+mods/songs/south-erect/inst.ogg

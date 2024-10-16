@@ -1,0 +1,44 @@
+{
+	"song": {
+		"speed": 3.6,
+		"stage": "troll",
+		"player1": "bfmii",
+		"player2": "mart",
+		"player3": null,
+		"events": [
+			[
+				7111.11111111111,
+				[
+					[
+						"Play Animation",
+						"snap",
+						"dad"
+					],
+					[
+						"Set Cam Zoom",
+						"1",
+						"0.5"
+					]
+				]
+			],
+			[
+				14222.2222222222,
+				[
+					[
+						"Set Cam Zoom",
+						"0.8",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gfmii",
+		"bpm": 270,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "king-hit-fefe"
+	}
+}

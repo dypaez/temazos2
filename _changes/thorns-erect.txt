@@ -1,0 +1,7 @@
+mods/data/thorns-erect/events.json
+mods/data/thorns-erect/thorns-erect-erect.json
+mods/data/thorns-erect/thorns-erect-nightmare.json
+mods/songs/thorns-erect/Voices.ogg
+mods/songs/thorns-erect/voices.ogg
+mods/songs/thorns-erect/Inst.ogg
+mods/songs/thorns-erect/inst.ogg

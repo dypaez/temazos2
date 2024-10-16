@@ -1,0 +1,9 @@
+mods/data/blazeborn/blazeborn-easy.json
+mods/data/blazeborn/blazeborn-hard.json
+mods/data/blazeborn/blazeborn.json
+mods/data/blazeborn/customcharacter.lua
+mods/data/blazeborn/script.lua
+mods/songs/blazeborn/Voices.ogg
+mods/songs/blazeborn/voices.ogg
+mods/songs/blazeborn/Inst.ogg
+mods/songs/blazeborn/inst.ogg

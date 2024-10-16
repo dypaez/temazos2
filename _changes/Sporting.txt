@@ -1,0 +1,5 @@
+mods/data/Sporting/events.json
+mods/songs/Sporting/Voices.ogg
+mods/songs/Sporting/voices.ogg
+mods/songs/Sporting/Inst.ogg
+mods/songs/Sporting/inst.ogg

@@ -1,0 +1,7 @@
+mods/data/hiss-2/hiss-2-fucked.json
+mods/data/hiss-2/hiss-2-hard.json
+mods/data/hiss-2/script.lua
+mods/songs/hiss-2/Voices.ogg
+mods/songs/hiss-2/voices.ogg
+mods/songs/hiss-2/Inst.ogg
+mods/songs/hiss-2/inst.ogg

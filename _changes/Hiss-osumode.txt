@@ -1,0 +1,9 @@
+mods/data/hiss/hiss-easy.json
+mods/data/hiss/hiss-hard.json
+mods/data/hiss/hiss-low.json
+mods/data/hiss/hiss.json
+mods/data/hiss/script.lua
+mods/songs/hiss/Voices.ogg
+mods/songs/hiss/voices.ogg
+mods/songs/hiss/Inst.ogg
+mods/songs/hiss/inst.ogg

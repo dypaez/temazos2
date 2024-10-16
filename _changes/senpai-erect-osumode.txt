@@ -1,0 +1,7 @@
+mods/data/senpai-erect/events.json
+mods/data/senpai-erect/senpai-erect-erect.json
+mods/data/senpai-erect/senpai-erect-nightmare.json
+mods/songs/senpai-erect/Voices.ogg
+mods/songs/senpai-erect/voices.ogg
+mods/songs/senpai-erect/Inst.ogg
+mods/songs/senpai-erect/inst.ogg

@@ -1,0 +1,9 @@
+mods/data/agoti/agoti-expert.json
+mods/data/agoti/agoti-hard.json
+mods/data/agoti/agoti-insane.json
+mods/data/agoti/events.json
+mods/data/agoti/script.lua
+mods/songs/agoti/Voices.ogg
+mods/songs/agoti/voices.ogg
+mods/songs/agoti/Inst.ogg
+mods/songs/agoti/inst.ogg

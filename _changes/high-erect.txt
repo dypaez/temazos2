@@ -1,0 +1,7 @@
+mods/data/high-erect/events.json
+mods/data/high-erect/high-erect-erect.json
+mods/data/high-erect/high-erect-nightmare.json
+mods/songs/high-erect/Voices.ogg
+mods/songs/high-erect/voices.ogg
+mods/songs/high-erect/Inst.ogg
+mods/songs/high-erect/inst.ogg

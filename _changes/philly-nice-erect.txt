@@ -1,0 +1,7 @@
+mods/data/philly-nice-erect/events.json
+mods/data/philly-nice-erect/philly-nice-erect-erect.json
+mods/data/philly-nice-erect/philly-nice-erect-nightmare.json
+mods/songs/philly-nice-erect/Voices.ogg
+mods/songs/philly-nice-erect/voices.ogg
+mods/songs/philly-nice-erect/Inst.ogg
+mods/songs/philly-nice-erect/inst.ogg
